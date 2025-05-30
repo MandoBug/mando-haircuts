@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+# ✂️ Mando's Haircuts
 
-## Project info
+Welcome to my haircut booking site — built for college students, by a college student.
 
-**URL**: https://lovable.dev/projects/1c6d117b-01dc-4322-a5d8-c0a1a73436cd
+I’m **Mando**, a double major in Computer Engineering and Applied Math at UC Santa Cruz, and I built this to offer affordable, pay-what-you-can cuts to my friends and fellow students. Whether you’re tight on money or want to support, this is for you. Everyone deserves to look good 💈💚
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Site
 
-**Use Lovable**
+[👉 Visit the Website](https://yourdomain.com)  
+_(or replace with Vercel/Netlify link after deployment)_
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1c6d117b-01dc-4322-a5d8-c0a1a73436cd) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📅 Book Your Fresh Cut
 
-**Use your preferred IDE**
+- ✂️ Available: **Tuesdays & Thursdays**
+- ⏰ Time: **10 AM – 3 PM**
+- 💵 Pay what you can — seriously!
+- 📍 College-Friendly Barber @ UCSC
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🙋 Can't Make Those Times?
 
-Follow these steps:
+I'm a full-time student, so please respect the schedule.  
+But if you're truly in a pinch:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 📱 Text me directly *(if you have my number)*
+- 📸 Or message me on IG: [@mando_t05](https://instagram.com/mando_t05)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💳 Payment Options
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- 💵 Cash (✅)
+- 📲 Venmo: `@mandisimo_`
+- 💰 CashApp: `$MandoBaby05`
+- 🅿️ PayPal: `@Mand0Wrld`
+
+---
+
+## 🧑‍💻 Tech Stack
+
+This app was built with:
+
+- [Vite](https://vitejs.dev/)
+- [React + TypeScript](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/MandoBug/mando-haircuts.git
+cd mando-haircuts
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1c6d117b-01dc-4322-a5d8-c0a1a73436cd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
